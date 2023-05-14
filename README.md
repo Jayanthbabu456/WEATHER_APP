@@ -15,6 +15,7 @@ Weather Application created using ReactJS and APIs provided by openweathermap.or
 - Search functionality for specific cities
 - Displays the present weather conditions (Temperature, Humidity, Cloud Cover) along with forecasts for the future.
 - Animation According To Weather Condition.
+- Backgrounds accurately reflect the current weather conditions at your location.
 
 ## Technologies Used
 
